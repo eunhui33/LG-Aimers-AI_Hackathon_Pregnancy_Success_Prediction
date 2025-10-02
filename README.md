@@ -34,7 +34,7 @@ We used the **UK HFEA (Human Fertilisation & Embryology Authority)** dataset and
 
 ### Leaderboard Placement
 ![Competition Result (Image 1)](images/competition_result.png) 
-![Competition Result (Image 2)](images/competition_result_2.png)  
+![Competition Result (Image 2)](images/competition_result2.png)  
 
 *Ranked 148th out of 794 teams (Top 19%)*  
 
