@@ -33,11 +33,13 @@ We used the **UK HFEA (Human Fertilisation & Embryology Authority)** dataset and
 ## 📊 Results
 
 ### Leaderboard Placement
-![Competition Result](images/competition_result.png)  
+![Competition Result (Image 1)](images/competition_result.png) 
+![Competition Result (Image 2)](images/competition_result_2.png)  
+
 *Ranked 148th out of 794 teams (Top 19%)*  
 
 ### Certificate
-![Certificate](images/certificate.png)  
+![Certificate (PDF)](images/certificate.pdf)  
 *Certificate of Completion – LG Aimers AI Hackathon 6th Cohort*  
 
 ---
