@@ -10,7 +10,8 @@ We used the **UK HFEA (Human Fertilisation & Embryology Authority)** dataset and
 - **Task**: Predict pregnancy success for infertility treatments  
 - **Dataset**: Public infertility treatment dataset (HFEA, UK)  
 - **Metric**: ROC-AUC (private leaderboard based on 100% of test data)  
-- **Tools/Tech**: Python, Pandas, Scikit-learn, TensorFlow/Keras  
+- **For EDA & Preprocessing**: Python, Pandas, NumPy, Matplotlib, Seaborn  
+- **For Modeling**: Scikit-learn (RandomForest), TensorFlow/Keras (MLP)
 
 ---
 
@@ -25,7 +26,19 @@ We used the **UK HFEA (Human Fertilisation & Embryology Authority)** dataset and
 - Conducted **exploratory data analysis (EDA)** to identify key features influencing pregnancy outcomes  
 - Built **data preprocessing pipeline**: missing value handling, categorical encoding, normalization  
 - Implemented baseline ML models (RandomForest, MLP) and compared performance  
-- Proposed future improvements for advanced modeling and feature engineering  
+- Proposed future improvements for advanced modeling and feature engineering
+
+---
+
+## 📊 Results
+
+### Leaderboard Placement
+![Competition Result](images/competition_result.png)  
+*Ranked 148th out of 794 teams (Top 19%)*  
+
+### Certificate
+![Certificate](images/certificate.png)  
+*Certificate of Completion – LG Aimers AI Hackathon 6th Cohort*  
 
 ---
 
